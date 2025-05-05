@@ -3,6 +3,14 @@
 A deep learning project to classify fish species from images using both custom CNNs and pre-trained models (VGG16, ResNet50, MobileNet, InceptionV3, EfficientNetB0). Includes a visually appealing Streamlit web app for real-time prediction.
 
 ---
+## 📁 Dataset
+
+The dataset contains categorized fish images in `train/`, `val/`, and `test/` folders.
+
+🔗 [📂 View Dataset Folder on Google Drive](https://drive.google.com/drive/folders/1iKdOs4slf3XvNWkeSfsszhPRggfJ2qEd?usp=sharing)
+
+---
+
 
 ## 🌟 Features
 
